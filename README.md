@@ -1,4 +1,4 @@
-# List GitHub Repos
+# List GitHub Repos (Custom)
 |![Home Page](screen1.png "Home Page")|![Repo Page](screen2.png "Repo Page")|
 |:---:|:---:|
 
